@@ -4,4 +4,7 @@ It is transparent which provides a clear guidelines about how the data used and 
 various testing and validation is done to provide accuracy. It provide security measures to protect biometric data.
 
 public trust and confidence can be encouraged by informing voters about the benefits, risks and safegaurds of biometric authentication.
-Electoral authorities can ensure the use of this biometric and ensure the democratic principles and enhance the security and integrity of electroal process
+Electoral authorities can ensure the use of this biometric and ensure the democratic principles and enhance the security and integrity of electroal process. 
+
+name: abinaya
+reg.no: 21mic0140
