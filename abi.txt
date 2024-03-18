@@ -8,3 +8,4 @@ Electoral authorities can ensure the use of this biometric and ensure the democr
 
 name: abinaya
 reg.no: 21mic0140
+course:application development and deployment architecture
